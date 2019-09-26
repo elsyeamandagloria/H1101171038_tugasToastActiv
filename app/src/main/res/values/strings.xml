@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">H1101171038_tugasToastActiv</string>
+    <string name="toast_message">Hello Amanda</string>
+    <string name="button_label_toast">Countdown</string>
+    <string name="button_label_countup">Countup</string>
+    <string name="_38">38</string>
+    <string name="toast">Toast</string>
+    <string name="hello_amanda">Hello Amanda</string>
+    <string name="countdown">Countdown</string>
+    <string name="toast">Toast</string>
+</resources>
